@@ -1,1 +1,1 @@
-[](ss.webp)
+![](ss.webp)
