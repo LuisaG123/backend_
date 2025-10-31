@@ -1,27 +1,22 @@
 {
-  "name": "estructura",
+  "name": "basesjs",
   "version": "1.0.0",
-  "description": "![](ss.webp)",
+  "description": "",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js",
     "dev": "nodemon server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/LuisaG123/backend_.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/LuisaG123/backend_/issues"
-  },
-  "homepage": "https://github.com/LuisaG123/backend_#readme",
   "dependencies": {
     "body-parser": "^2.2.0",
     "cors": "^2.8.5",
     "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
   }
 }
